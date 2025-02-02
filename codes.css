@@ -9,3 +9,16 @@ h1.title {
   font-size: larger;
   color: rgb(89, 142, 243);
 }
+
+body {
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #7bbdffad;
+   }
+   
+title {
+text-align: center;
+vertical-align: text-top;
+}
