@@ -6,9 +6,11 @@ img {
 }
 
 h1.title {
-  font-size: larger;
+  font: size 50px;
   color: rgb(89, 142, 243);
 }
+
+
 
 body {
     background-image: url('images/background.jpg');
