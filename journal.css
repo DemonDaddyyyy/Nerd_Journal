@@ -1,0 +1,28 @@
+
+
+      img {
+        width: 200px;
+        border-radius: 7px;
+        float: left;
+        margin-right: 10px;
+      }
+      
+      h1.title {
+        font: size 50px;
+        color: rgb(89, 142, 243);
+      }
+      
+      
+      
+      body {
+        background-image: url("images/background.jpg");
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-color: #7bbdffad;
+          position: relative;
+         }
+         
+      title {
+      text-align: center;
+      vertical-align: text-top;
+      }
